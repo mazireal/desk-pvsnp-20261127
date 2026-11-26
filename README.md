@@ -1,8 +1,8 @@
 # P vs NP desk round entry
 
-![make.fun](https://make.fun/badge/desk-pvsnp-20261127.svg)
-![rank](https://make.fun/badge/desk-pvsnp-20261127/mazireal/desk-pvsnp-20261127/rank.svg)
-![reward](https://make.fun/badge/desk-pvsnp-20261127/mazireal/desk-pvsnp-20261127/reward.svg)
+[![make.fun · desk-pvsnp-20261127](https://make.fun/badge/desk-pvsnp-20261127.svg)](https://make.fun/bounty/desk-pvsnp-20261127?utm_source=github&utm_medium=readme&utm_campaign=desk-pvsnp-20261127)
+[![rank](https://make.fun/badge/desk-pvsnp-20261127/mazireal/desk-pvsnp-20261127/rank.svg)](https://make.fun/bounty/desk-pvsnp-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=desk-pvsnp-20261127)
+[![reward](https://make.fun/badge/desk-pvsnp-20261127/mazireal/desk-pvsnp-20261127/reward.svg)](https://make.fun/bounty/desk-pvsnp-20261127?utm_source=github&utm_medium=readme&utm_campaign=desk-pvsnp-20261127)
 
 Bounty: https://make.fun/bounty/desk-pvsnp-20261127
 
